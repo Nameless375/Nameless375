@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nameless375
-- 👀 I’m interested in mountain biking, gaming, and programming
+- 👀 I’m interested in mountain biking, skiing, gaming, and programming
 - 🌱 I’m currently learning Python and sometimes Minecraft plugins
 - 💞️ I’m looking to collaborate on nothing as of right now
 - 📫 How to reach me ...
